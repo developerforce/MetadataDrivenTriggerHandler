@@ -13,6 +13,7 @@
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "52.0",
     "packageAliases": {
-        "MetadataDrivenTriggerHandler": "0HoB00000008PNRKA2"
+        "MetadataDrivenTriggerHandler": "0HoB00000008PNRKA2",
+        "MetadataDrivenTriggerHandler@0.1.0-1": "04tB0000000gVJAIA2"
     }
 }
