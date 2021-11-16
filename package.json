@@ -2,7 +2,7 @@
     "name": "metadata-driven-trigger-handler",
     "private": true,
     "version": "1.0.0",
-    "description": "Salesforce App",
+    "description": "A custom metadata driven trigger framework.",
     "scripts": {
         "lint": "eslint **/lwc/**/*.js",
         "prettier": "prettier --write \"**/*.{cls,cmp,component,css,html,js,json,md,page,trigger,xml,yaml,yml}\"",
